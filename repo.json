@@ -1,0 +1,8 @@
+{
+    "name": "licodsk c3xxx repository",
+    "description": "licodsk c3xxx Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/licodsk/cs3xxx-repo/builds/plugins.json"
+    ]
+}
